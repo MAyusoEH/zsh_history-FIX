@@ -1,4 +1,4 @@
-## Vista Previa del error:
+## Vista Previa del error en entornos Linux:
 ![Captura de pantalla del proyecto](https://github.com/MAyusoEH/zsh_history-FIX/blob/main/pic_zsherror.png)
 
 
