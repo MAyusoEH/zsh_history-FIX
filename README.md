@@ -10,7 +10,7 @@ dsfgfdgfdgfdgfdgfdg
 
 1- Descargar el repositorio al equipo local con la siguiente línea:
 
-``git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git`` 
+``git clone https://github.com/MAyusoEH/zsh_history-FIX.git`` 
 
 2- Ejecutar el archivo default_creds.html con el navegador.
 
