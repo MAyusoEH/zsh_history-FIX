@@ -3,16 +3,16 @@
 
 
 ## ¿Qué hace este FIX?:
-### Mueve el historial corrupto a un archivo de respaldo:
+Mueve el historial corrupto a un archivo de respaldo:
 ``mv ~/.zsh_history ~/.zsh_history_bad``
 
-### Extrae solo las cadenas de texto legibles del archivo corrupto:
+Extrae solo las cadenas de texto legibles del archivo corrupto:
 ``strings ~/.zsh_history_bad > ~/.zsh_history``
 
-### Fuerza la recarga del nuevo historial en la sesión actual de Zsh:
+Fuerza la recarga del nuevo historial en la sesión actual de Zsh:
 ``fc -R ~/.zsh_history``
 
-### Elimina el archivo de respaldo con el historial corrupto:
+Elimina el archivo de respaldo con el historial corrupto:
 ``rm ~/.zsh_history_bad``
 
 
