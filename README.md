@@ -12,13 +12,13 @@ dsfgfdgfdgfdgfdgfdg
 
 ``git clone https://github.com/MAyusoEH/zsh_history-FIX.git`` 
 
-2- Dar permisos de ejecución al archivo ".sh":
+2- Dar permisos de ejecución al archivo "fix.sh":
 
-``chmod +x zsh_history_fix.sh``
+``chmod +x fix.sh``
 
-3- Ejecutar el archivo ".sh":
+3- Ejecutar el archivo "fix.sh":
 
-``./zsh_history_fix.sh``
+``./fix.sh``
 
 
 ## Licencia:
