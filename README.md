@@ -12,7 +12,13 @@ dsfgfdgfdgfdgfdgfdg
 
 ``git clone https://github.com/MAyusoEH/zsh_history-FIX.git`` 
 
-2- Ejecutar el archivo default_creds.html con el navegador.
+2- Dar permisos de ejecución al archivo ".sh":
+
+``chmod +x zsh_history_fix.sh``
+
+3- Ejecutar el archivo ".sh":
+
+``./zsh_history_fix.sh``
 
 
 ## Licencia:
