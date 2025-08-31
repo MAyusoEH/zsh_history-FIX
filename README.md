@@ -3,6 +3,8 @@
 
 
 ## ¿Qué hace este FIX?:
+Arregla el error anterior.
+
 Mueve el historial corrupto a un archivo de respaldo:
 ``mv ~/.zsh_history ~/.zsh_history_bad``
 
