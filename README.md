@@ -33,9 +33,6 @@ Elimina el archivo de respaldo con el historial corrupto:
 
 ## Licencia:
 
-Este proyecto está licenciado bajo la Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)
-.
+Este proyecto no está licenciado, el código usado es ampliamente conocido y de dominio público.
 
-Puedes usar, modificar y distribuir este código de manera libre, pero en caso de usarlo en entornos comerciales, profesionales o estudios, por favor asegúrate de citar adecuadamente a la autoría original, proporcionando un enlace a este repositorio y mencionando que es tu referencia.
-
-**Créditos:** Este código fue desarrollado por [MAyusoEH](https://github.com/MAyusoEH).
+**Créditos:** Este archivo fue montado por [MAyusoEH](https://github.com/MAyusoEH).
