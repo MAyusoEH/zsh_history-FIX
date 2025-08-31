@@ -1,5 +1,5 @@
 ## Vista Previa del error:
-![Captura de pantalla del proyecto](https://github.com/MAyusoEH/zsh_history-FIX/blob/main/zsh_history_fix.sh)
+![Captura de pantalla del proyecto](https://github.com/MAyusoEH/zsh_history-FIX/blob/main/pic_zsherror.png)
 
 
 ## ¿Qué hace este FIX?:
@@ -10,7 +10,7 @@ dsfgfdgfdgfdgfdgfdg
 
 1- Descargar el repositorio al equipo local con la siguiente línea:
 
-``git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git``
+``git clone https://github.com/MAyusoEH/Buscador-Credenciales-Default-Fabricantes-Servicios.git`` 
 
 2- Ejecutar el archivo default_creds.html con el navegador.
 
